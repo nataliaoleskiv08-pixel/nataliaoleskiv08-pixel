@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Natalia! 👋</h1>
 <h3 align="center">Software Engineering Student & Aspiring Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=natalyoleskiv08-pixel&color=blueviolet&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Status-Ready%20for%20Hackathons-success?style=flat-square&logo=appveyor" alt="Hackathon Ready" />
-</p>
+//<p align="center">
+//  <img src="https://komarev.com/ghpvc/?username=natalyoleskiv08-pixel&color=blueviolet&style=flat-square" alt="Profile views" />
+//  <img src="https://img.shields.io/badge/Status-Ready%20for%20Hackathons-success?style=flat-square&logo=appveyor" alt="Hackathon Ready" />
+//</p>
 
 ---
 
@@ -37,16 +37,6 @@ I am a second-year **Software Engineering** student at Lviv Polytechnic National
 * Preparing for upcoming hackathons and building robust pet projects.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natalyoleskiv08-pixel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalyoleskiv08-pixel&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
