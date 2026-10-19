@@ -1,11 +1,6 @@
 <h1 align="center">Hi there, I'm Natalia! 👋</h1>
 <h3 align="center">Software Engineering Student & Aspiring Developer</h3>
 
-//<p align="center">
-//  <img src="https://komarev.com/ghpvc/?username=natalyoleskiv08-pixel&color=blueviolet&style=flat-square" alt="Profile views" />
-//  <img src="https://img.shields.io/badge/Status-Ready%20for%20Hackathons-success?style=flat-square&logo=appveyor" alt="Hackathon Ready" />
-//</p>
-
 ---
 
 ### 🚀 About Me
